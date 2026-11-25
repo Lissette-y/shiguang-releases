@@ -1,9 +1,9 @@
 {
-  "version": "v1.5.2",
-  "notes": "拾光 ShiGuang v1.5.2 安卓安装包自动构建发布。直接下载安装即可，本地数据不受影响。",
-  "apkSize": 2702668,
-  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.5.2/shiguang-app.apk",
-  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.2/apk/shiguang-app.apk",
-  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.2/apk/shiguang-app.apk",
-  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.5.2"
+  "version": "v1.5.3",
+  "notes": "拾光 ShiGuang v1.5.3 安卓安装包自动构建发布。直接下载安装即可，本地数据不受影响。",
+  "apkSize": 2703252,
+  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.5.3/shiguang-app.apk",
+  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.3/apk/shiguang-app.apk",
+  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.3/apk/shiguang-app.apk",
+  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.5.3"
 }
