@@ -1,9 +1,9 @@
 {
-  "version": "v1.5.5",
-  "notes": "拾光 ShiGuang v1.5.5 安卓安装包自动构建发布。直接下载安装即可，本地数据不受影响。",
-  "apkSize": 2704192,
-  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.5.5/shiguang-app.apk",
-  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.5/apk/shiguang-app.apk",
-  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.5/apk/shiguang-app.apk",
-  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.5.5"
+  "version": "v1.5.6",
+  "notes": "• 新增：检测到新版本时，在设置页自动展示本次更新内容简介\n• 优化：打开日程、计划、待办等编辑弹窗时不再自动拉起输入法\n• 新增：长期计划支持纯图标折叠/展开子计划（适配简约与可爱双风格）\n• 修复：优化国内多线路更新检测缓存，新版发布后即时可见",
+  "apkSize": 2704288,
+  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.5.6/shiguang-app.apk",
+  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.6/apk/shiguang-app.apk",
+  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.6/apk/shiguang-app.apk",
+  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.5.6"
 }
