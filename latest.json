@@ -1,9 +1,9 @@
 {
-  "version": "v1.5.6",
-  "notes": "• 新增：检测到新版本时，在设置页自动展示本次更新内容简介\n• 优化：打开日程、计划、待办等编辑弹窗时不再自动拉起输入法\n• 新增：长期计划支持纯图标折叠/展开子计划（适配简约与可爱双风格）\n• 修复：优化国内多线路更新检测缓存，新版发布后即时可见",
-  "apkSize": 2704288,
-  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.5.6/shiguang-app.apk",
-  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.6/apk/shiguang-app.apk",
-  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.6/apk/shiguang-app.apk",
-  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.5.6"
+  "version": "v1.5.7",
+  "notes": "• 新增：桌面「待办一览」小组件支持直接点击左侧勾选框完成待办，无需打开 App\n• 适配：小组件勾选框同步适配「清新简约风」与「简笔画可爱风」双风格主题与优先级配色\n• 同步：桌面勾选完成后立即提示积分并刷新余量，下次打开 App 时自动同步状态与自律积分",
+  "apkSize": 2710056,
+  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.5.7/shiguang-app.apk",
+  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.7/apk/shiguang-app.apk",
+  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.7/apk/shiguang-app.apk",
+  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.5.7"
 }
