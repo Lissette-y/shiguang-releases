@@ -1,9 +1,9 @@
 {
-  "version": "v1.5.7",
-  "notes": "• 新增：桌面「待办一览」小组件支持直接点击左侧勾选框完成待办，无需打开 App\n• 适配：小组件勾选框同步适配「清新简约风」与「简笔画可爱风」双风格主题与优先级配色\n• 同步：桌面勾选完成后立即提示积分并刷新余量，下次打开 App 时自动同步状态与自律积分",
-  "apkSize": 2710056,
-  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.5.7/shiguang-app.apk",
-  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.7/apk/shiguang-app.apk",
-  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.7/apk/shiguang-app.apk",
-  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.5.7"
+  "version": "v1.5.8",
+  "notes": "• 优化：奖惩中心的「奖励兑换商店」改为入口卡片，点击进入独立的商店卡片页面（支持返回键退回）\n• 优化：「奖惩流水记录」改为默认折叠展示，点击即可展开/收起，奖惩中心页面更清爽\n• 适配：新增入口卡片、商店页与折叠流水均同步适配清新简约风与简笔画可爱风双风格",
+  "apkSize": 2711884,
+  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.5.8/shiguang-app.apk",
+  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.8/apk/shiguang-app.apk",
+  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.8/apk/shiguang-app.apk",
+  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.5.8"
 }
