@@ -1,9 +1,9 @@
 {
-  "version": "v1.5.9",
-  "notes": "• 新增：「拾光 · 日程一览」桌面小组件，自动展示今日剩余日程与近期安排（自动过滤今天已结束的日程）\n• 适配：日程小组件同步支持自由缩放（2×2～4×4 动态显示 1～8 条）、按事件色标着色，并完整适配简约与可爱双风格主题\n• 交互：点击小组件直达「日程日历」页，右上角支持随时一键手动刷新",
-  "apkSize": 2722576,
-  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.5.9/shiguang-app.apk",
-  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.9/apk/shiguang-app.apk",
-  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.5.9/apk/shiguang-app.apk",
-  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.5.9"
+  "version": "v1.6.0",
+  "notes": "• 新增：待办事项支持选填具体截止时间（24 小时制，00:00～23:59，可随时一键清空）\n• 优化：设置具体截止时间后，今日待办按分钟精准判定逾期，并在截止前 10 分钟自动发送提醒通知\n• 同步：今日概览、待办列表与桌面「待办一览」小组件均同步展示具体截止时间",
+  "apkSize": 2723912,
+  "apkUrl": "https://github.com/Lissette-y/shiguang-releases/releases/download/v1.6.0/shiguang-app.apk",
+  "cdnFastlyUrl": "https://fastly.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.6.0/apk/shiguang-app.apk",
+  "cdnUrl": "https://cdn.jsdelivr.net/gh/Lissette-y/shiguang-releases@v1.6.0/apk/shiguang-app.apk",
+  "htmlUrl": "https://github.com/Lissette-y/shiguang-releases/releases/tag/v1.6.0"
 }
